@@ -1,7 +1,3 @@
-Based on Stanford CS221 assignment
-See instructions: https://docs.google.com/document/d/1NFDjIdbnRFYWW-skyhHHjI4HP2m1b8AL5uxb9nc0qtk/edit?usp=sharing
-
-
 To play, type:   python pacman.py
 For help, type:  python pacman.py -h
 
